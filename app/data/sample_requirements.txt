@@ -1,0 +1,5 @@
+Login requirements:
+- Password must be minimum 8 characters.
+- Username must be a valid email address.
+- Lock account after 5 failed attempts.
+- OTP required for new device login.
